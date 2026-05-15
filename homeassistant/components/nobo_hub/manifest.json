@@ -1,7 +1,7 @@
 {
   "domain": "nobo_hub",
   "name": "Nob\u00f8 Ecohub",
-  "codeowners": ["@echoromeo", "@oyvindwe"],
+  "codeowners": ["@oyvindwe"],
   "config_flow": true,
   "dhcp": [
     {
